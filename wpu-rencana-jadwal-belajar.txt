@@ -4,3 +4,8 @@ Rencana Jadwal belajar github 4 September 2023:
 
 Realisasi : 
 - 08.10 WIWB baru mulai materi #3 menit 18
+
+Materi #1 : 
+- apa itu git vcs? 
+- apa itu git?
+- apa itu github?
