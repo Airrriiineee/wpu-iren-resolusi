@@ -3,7 +3,7 @@ Rencana Jadwal belajar github 4 September 2023:
 - 09.00 - 12.00 WIB
 
 Realisasi : 
-- 08.10 WIWB baru mulai materi #3 menit 18
+- 08.10 WIWB baru mulai materi #3 
 
 Materi #2 
 - pengenalan interface github
